@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-Jelena Grubor Lugonja
 This is remote change to file
 This is second change
-||||||| 4032ed5
-
-=======
-
-
->>>>>>> bce555e51c2e0a259ebfbe49fc87759a7e70a5a4
