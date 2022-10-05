@@ -1,1 +1,1 @@
-This is local change to file This is second change
+This is remote change to file
